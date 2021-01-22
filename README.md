@@ -1,2 +1,2 @@
 # nitter-redirect-extension
-A Firefox extension to redirect Twitter links to nitter.net
+A browser extension which redirect Twitter links to nitter.net, currently supporting Chrome and Firefox.
